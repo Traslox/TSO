@@ -1,3 +1,11 @@
+# First day patch 01.28.2025
+
+What changed?
+
+Voice call mode added and this mode using different algorithm for predict the noise before you heard.
+
+Some settings are changed.
+
 # TSO
 Sound Optimizer made by Traslox
 
