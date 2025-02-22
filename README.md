@@ -1,11 +1,3 @@
-# First day patch 01.28.2025
-
-What changed?
-
-Voice call mode added and this mode using different algorithm for predict the noise before you heard.
-
-Some settings are changed.
-
 # TSO
 Sound Optimizer made by Traslox
 
@@ -18,3 +10,13 @@ It is a sound optimizer for your health. This application save your ear's while 
 # Nugets
 
 NAudio only.
+
+# Last patch 01.28.2025
+
+What changed?
+
+Voice call mode added and this mode using different algorithm for predict the noise before you heard.
+
+Some settings are changed.
+
+### INFO: When a patch outcome you need download new version.
